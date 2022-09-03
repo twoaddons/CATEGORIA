@@ -67,7 +67,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 <channels>
 <channel>
 <name>[I][COLOR BLUE]¨¨[/COLOR][COLOR white]|||[/COLOR][COLOR white]CANAIS DE TV TESTE [/COLOR][COLOR white] TORRENT [/COLOR][COLOR BLUE]|||[/COLOR][COLOR white]¨¨[/COLOR][/I]</name>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/twoaddons/CANAIS-DE-TV/main/README.md</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>

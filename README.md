@@ -2,8 +2,8 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] HÉROIS  [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<externallink></externallink>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] LANÇAMENTOS 2022 TESTE  [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/twoaddons/LAN-AMENTOS-UPDATE/main/README.md</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>

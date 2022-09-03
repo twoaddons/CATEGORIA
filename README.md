@@ -3,7 +3,7 @@
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] LANÇAMENTOS 2022 TESTE  [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/twoaddons/FILMES/main/README.md</externallink>
 <thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info>

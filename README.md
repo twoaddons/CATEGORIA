@@ -4,7 +4,7 @@
 <channel>
 <name>[I][COLOR indigo]***[/COLOR][B][COLOR white] FILMES  [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/twoaddons/FILMES/main/README.md</externallink>
-<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<thumbnail>https://ia601501.us.archive.org/9/items/two-addons-filmes/two%20addonsFILMES.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info>
 [COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
@@ -16,8 +16,8 @@
 <channels>
 <channel>
 <name>[I][COLOR indigo]***[/COLOR][B][COLOR white] SÉRIES [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
-<externallink></externallink>
-<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/twoaddons/SERIES/main/README.md</externallink>
+<thumbnail>https://ia601402.us.archive.org/12/items/two-addons-series/two%20addons%20SERIES.jpg</thumbnail>
 <fanart></fanart>
 <info> 
 [COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
@@ -30,7 +30,7 @@
 <channel>
 <name>[I][COLOR indigo]***[/COLOR][B][COLOR  white] DESENHOS [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
 <externallink></externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601402.us.archive.org/6/items/two-addons-desenhos/two%20addons%20DESENHOS.jpg</thumbnail>
 <fanart></fanart>
 <info>
 [COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
@@ -56,7 +56,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 <channel>
 <name>[I][COLOR indigo]***[/COLOR][B][COLOR white] TOKUSATSU HÉROIS [/COLOR][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
 <externallink></externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601403.us.archive.org/13/items/two-addons-tokusatsu/two%20addonsTOKUSATSU.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -66,9 +66,9 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 
 <channels>
 <channel>
-<name>[I][COLOR indigo]***[/COLOR][B][COLOR white]CANAIS DE TV TESTE [/COLOR][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
+<name>[I][COLOR indigo]***[/COLOR][B][COLOR white]CANAIS DE TV TESTE [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/twoaddons/CANAIS-DE-TV/main/README.md</externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601500.us.archive.org/20/items/two-addons-tv/two%20addonsTV.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>

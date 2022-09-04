@@ -29,7 +29,7 @@
 <channels>
 <channel>
 <name>[I][COLOR indigo]***[/COLOR][B][COLOR  white] DESENHOS [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/twoaddons/DESENHOS/main/README.md</externallink>
 <thumbnail>https://ia601402.us.archive.org/6/items/two-addons-desenhos/two%20addons%20DESENHOS.jpg</thumbnail>
 <fanart></fanart>
 <info>

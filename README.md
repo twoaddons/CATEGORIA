@@ -64,15 +64,3 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<   
 
-<channels>
-<channel>
-<name>[I][COLOR indigo]***[/COLOR][B][COLOR white]CANAIS DE TV TESTE [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
-<externallink>https://raw.githubusercontent.com/twoaddons/CANAIS-DE-TV/main/README.md</externallink>
-<thumbnail>https://ia601500.us.archive.org/20/items/two-addons-tv/two%20addonsTV.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<   
-   

@@ -55,7 +55,19 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 <channels>
 <channel>
 <name>[I][COLOR indigo]***[/COLOR][B][COLOR white] TOKUSATSU HÉROIS [/COLOR][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/twoaddons/TOKUSATSU/main/README.md</externallink>
+<thumbnail>https://ia601403.us.archive.org/13/items/two-addons-tokusatsu/two%20addonsTOKUSATSU.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<   
+
+<channels>
+<channel>
+<name>[I][COLOR indigo]***[/COLOR][B][COLOR white] GOSPEL [/COLOR][COLOR white] TORRENT [/COLOR][/B][COLOR indigo]***[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/twoaddons/TOKUSATSU/main/README.md</externallink>
 <thumbnail>https://ia601403.us.archive.org/13/items/two-addons-tokusatsu/two%20addonsTOKUSATSU.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
